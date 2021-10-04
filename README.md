@@ -1,6 +1,6 @@
 # Título do projeto
 
-Dt Money
+Projeto <b>Dt Money</b> - Um Aplicativo em ReactJs Para Controle de Atividades Financeiras <br />
 Este projeto faz parte do bootcamp Ignite ReactJs - Rocketseat
 
 ## 🛠️ Construído com
